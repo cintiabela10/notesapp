@@ -27,5 +27,12 @@
     "tsx": "^4.23.13",
     "typescript": "^5.9.3",
     "vite": "^8.2.2"
+  },
+  "allowScripts": {
+    "core-js@3.50.0": true,
+    "core-js@2.6.12": true,
+    "esbuild@0.28.2": true,
+    "esbuild@0.25.12": true,
+    "@parcel/watcher@2.6.0": true
   }
 }
